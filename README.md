@@ -1,3 +1,3 @@
 # gitskills
 git learm
-Creatinh a new branch is quick
+Creatinh a new branch is quick & simple
